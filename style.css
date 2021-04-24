@@ -2,7 +2,7 @@
 
 StyleSheet
 
-Last modified: 12/4/2021
+Last modified: 124/4/2021
 
 @author: gard002
 
@@ -14,7 +14,7 @@ Body
   
 body{
     background: #1f1f1f;
-    font-family: 'Times New Roman';
+    font-family: Arial, Helvetica, sans-serif, Times New Roman;
     color: white;
     margin: 0;
 } 
@@ -34,7 +34,6 @@ Navagation
     width: 70; 
     height: 70;
     padding: 2px 2.5px;
-    /* possibly lessen vertical padding to make logo vertical align more acurate */
 }
 
 ul.nav {
