@@ -8,7 +8,7 @@ Body
   
 body{
     background: #1f1f1f;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif, Times New Roman;
     color: white;
     margin: 0;
 } 
@@ -27,7 +27,7 @@ Navagation
     float: left;
     width: 70; 
     height: 70;
-    padding: 2.5px 2.5px;
+    padding: 2px 2.5px;
 }
 
 ul.nav {
@@ -55,7 +55,7 @@ ul.nav li a:hover:not(.active) {
 }
 
 ul.nav li a.active {
-    background-color: #2196F3;
+    background-color: #F40F0F;
 }
 
 ul.nav li.right {
