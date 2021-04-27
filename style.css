@@ -9,10 +9,10 @@ Last modified: 27/4/2021 7:54PM
 */
 
 /*
-general text modifications
+General text modifications
 */
   
-body{
+body {
     background: #1f1f1f;
     font-family: Arial, Helvetica, sans-serif, Times New Roman;
     color: white;
@@ -45,7 +45,7 @@ p {
 }
 
 /* 
-Navagation
+Navigation
 */
 
 .h1 {
