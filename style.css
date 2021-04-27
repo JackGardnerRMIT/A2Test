@@ -123,7 +123,7 @@ Content mod	--------------------------------------------------------------------
   background-color: #0d0d0d;  
 }
 
-.column {
+.column {	/*note: please only put 3 columns into a single container, or else additional steps will be required*/
   float: left;
   width: 31%;
   margin: 20px 1.15%;
