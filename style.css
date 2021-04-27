@@ -2,7 +2,7 @@
 
 StyleSheet
 
-Last modified: 124/4/2021
+Last modified: 27/4/2021 7:54PM
 
 @author: gard002
 
@@ -97,3 +97,17 @@ ul.nav li.right {
   ul.nav li.right, 
   ul.nav li {float: none;}
 }
+
+
+/*
+Content
+*/
+
+.introbox {
+	background-color:#1a1a1a;
+	color:white;
+	padding:20px;
+	margin:100px 50px 10px 50px;
+}
+
+
