@@ -118,25 +118,20 @@ Content mod	--------------------------------------------------------------------
 	margin:15px 50px 20px 50px;
 }
 
-.rbox {	/*ROW box*/
-  width: 500px;
-  height: 100px;
-  white-space: nowrap;
-  position: relative;
-  overflow-x: scroll;
-  overflow-y: hidden;
-  webkit-overflow-scrolling: touch;
+.cont1 {	/*container for columns*/
+  height: 200px;
+  background-color: #0d0d0d;  
 }
 
-.rbox div {	/* (assumption) exclusively targets div or rbox*/
-    width: 24.5%;
-    background-color: #1a1a1a;
-    float: none;
-    height: 90%;
-    margin: 0% 0.25% 0% 0.25%;
-    display: inline-block;
-    zoom: 1;
+.column {
+  float: left;
+  width: 31%;
+  margin: 20px 1.15%;
+  height: 160px;
+  background-color: #1a1a1a; 
 }
+
+
 
 
 
