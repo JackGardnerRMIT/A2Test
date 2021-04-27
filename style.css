@@ -130,7 +130,7 @@ Content mod	--------------------------------------------------------------------
 
 .rbox div {	/* (assumption) exclusively targets div or rbox*/
     width: 24.5%;
-    background-color: #eee;
+    background-color: #1a1a1a;
     float: none;
     height: 90%;
     margin: 0 0.25%;
