@@ -2,9 +2,9 @@
 
 StyleSheet
 
-Last modified: 28/4/2021 2:26AM - Jeff
+Last modified: 28/4/2021 6:50AM
 
-@author: gard002
+@authors: Jack, Jeff,
 
 NOTE: The dividers below (-----) serves to separate major segments of the css code for easier navigation.
 */
@@ -118,7 +118,9 @@ Content mod	--------------------------------------------------------------------
 	margin:15px 50px 20px 50px;
 }
 
-/*TeamProfile section?*/
+/*
+TeamProfile section -------------------------------------------------------------------------------------------------------------------------------------------------------------
+*/
 
 .cont1 {	/*container for columns*/
   height: 200px;
